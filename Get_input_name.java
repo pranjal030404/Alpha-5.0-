@@ -10,7 +10,7 @@ public class Get_input_name {
 
 // There are some sections which can be used to replace next and use anything
 // else there
-        // nextline()
-        // nextint()
-        // nextfloat()
-        // nextdouble()
+// nextline() for next line
+// nextint() for integer
+// nextfloat() for float type value
+// nextdouble() for double value
